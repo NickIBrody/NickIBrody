@@ -33,7 +33,7 @@
 
 
 🎯 **Цель:** Ищу первую работу/стажировку в сфере IT для применения навыков на практике. Готов работать на частичную занятость или удалённо.
-
+🌐 https://nickibrody.github.io
 
 
 
@@ -75,3 +75,4 @@ I'm [15, almost 16] years old and passionate about programming and automation. H
 *   **Telegram:** [@werg23p](https://t.me/werg23p)
 
 🎯 **Goal:** Looking for my first job/internship in IT to apply my skills in practice. Ready for part-time or remote work.
+🌐 https://nickibrody.github.io
