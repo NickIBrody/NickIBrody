@@ -18,6 +18,7 @@
 | :--- | :--- | :--- |
 | **[ScreenshotEye Bot](https://github.com/NickIBrody/telegram-screenshot-bot)** | Python, Telegram Bot API | Телеграм-бот для создания полноразмерных скриншотов веб-страниц. Умеет обрабатывать очередь запросов. |
 | **[Micro AI Trainer Bot](https://github.com/NickIBrody/Micro-AI-Bot)** | Python, [Название библиотеки, если есть] | Простой бот с элементами ИИ, который запоминает ответы пользователей и учится на них. |
+- [ProcView Pro](https://github.com/NickIBrody/procview-pro) -  ProcView Pro — Windows-утилита для мониторинга процессов с поиском в реальном времени. Показывает использование памяти/CPU, имеет режимы паузы и быстрого обновления. Portable EXE — не требует установки Python
 
 
 ---
@@ -63,6 +64,7 @@ I'm [15, almost 16] years old and passionate about programming and automation. H
 | :--- | :--- | :--- |
 | **[ScreenshotEye Bot](https://github.com/NickIBrody/telegram-screenshot-bot)** | Python, Telegram Bot API | Telegram bot for capturing full-page website screenshots. Handles request queues. |
 | **[Micro AI Trainer Bot](https://github.com/NickIBrody/Micro-AI-Bot)** | Python | Simple bot with AI elements that learns from user responses. |
+- [ProcView Pro](https://github.com/NickIBrody/procview-pro) - Windows process monitor with real-time search ProcView Pro — a Windows process monitor with real-time search. Shows memory/CPU usage, has pause/resume and fast/normal update modes. Portable EXE — no Python installation required.
 
 ---
 
