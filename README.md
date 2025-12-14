@@ -17,7 +17,7 @@
 | Проект | Технологии | Описание |
 | :--- | :--- | :--- |
 | **[ScreenshotEye Bot](https://github.com/NickIBrody/telegram-screenshot-bot)** | Python, Telegram Bot API | Телеграм-бот для создания полноразмерных скриншотов веб-страниц. Умеет обрабатывать очередь запросов. |
-| **[Micro AI Trainer Bot](https://github.com/NickIBrody/Micro-AI-Bot)** | Python, [Название библиотеки, если есть] | Простой бот с элементами ИИ, который запоминает ответы пользователей и учится на них. |
+| **[Micro AI Trainer Bot](https://github.com/NickIBrody/Micro-AI-Bot)** | Python,  | Простой бот с элементами ИИ, который запоминает ответы пользователей и учится на них. |
 - [ProcView Pro](https://github.com/NickIBrody/procview-pro) -  ProcView Pro — Windows-утилита для мониторинга процессов с поиском в реальном времени. Показывает использование памяти/CPU, имеет режимы паузы и быстрого обновления. Portable EXE — не требует установки Python
 
 
