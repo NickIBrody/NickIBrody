@@ -27,9 +27,6 @@
 
 ## What's next on my roadmap
 - Finish **BrodyLinux**: networking, SSH server, better init system, proper docs
-- Learn **Django / Flask** → build real web apps
-- Start with **JavaScript / TypeScript** for frontend
-- Make a full **interactive portfolio** with live demos
 
 <div align="center">
 
