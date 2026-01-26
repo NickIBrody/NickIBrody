@@ -34,7 +34,7 @@
 <div align="center">
 
 **Open to collabs, feedback, code reviews or even small internships!**  
-Feel free to DM me → [Telegram](https://t.me/your_nick) or open an issue in any repo.
+Feel free to DM me → [Telegram](https://t.me/werg23p) or open an issue in any repo.
 
 <br>
 
