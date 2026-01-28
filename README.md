@@ -49,7 +49,7 @@ Last updated: January 2026
 
 
 
-![Hatred GIF](https://tenor.com/boAeV.gif)
+
 
 
 
