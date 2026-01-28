@@ -46,3 +46,11 @@ Feel free to DM me → [Telegram](https://t.me/werg23p) or open an issue in any 
 
 Thanks for stopping by! 🚀  
 Last updated: January 2026
+
+
+
+![Hatred GIF](https://tenor.com/boAeV.gif)
+
+
+
+
