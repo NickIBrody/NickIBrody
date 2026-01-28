@@ -50,7 +50,7 @@ Last updated: January 2026
 
 
 
-
+![Warcraft Gaming GIF](https://media1.tenor.com/m/6yZRyjWnwGEAAAAC/warcraft-gaming.gif)
 
 
 
