@@ -24,6 +24,7 @@
 | 4 | **brodylinux** | **My own minimal Linux distro** — building from scratch (educational project). BusyBox, initrd, isolinux, boots into shell. Learning how kernels & bootloaders really work. | Shell | In progress (6 commits) | [→ View](https://github.com/NickIBrody/brodylinux) |
 | 5 | **KeyGenerator** | Telegram bot for generating & validating one-time keys (admin generates, users activate). | Python | Active | [→ View](https://github.com/NickIBrody/KeyGenerator) |
 | 6 | **NickIBrody.github.io** | My personal portfolio website hosted on GitHub Pages. | HTML / CSS / JS | Live | [→ Visit site](https://nickibrody.github.io) |
+| 7 | guessing-game | A tiny terminal-based number guessing game written in Rust. Learning Rust fundamentals, CLI input, and basic game logic. | Rust | Learning project | [→ View](https://github.com/NickIBrody/guessing-game/tree/main) |
 
 ## What's next on my roadmap
 - Finish **BrodyLinux**: networking, SSH server, better init system, proper docs
