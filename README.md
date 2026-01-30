@@ -26,7 +26,7 @@
 | [Micro-AI-Bot]             | Tiny self-learning Telegram bot — remembers what you teach it              | Python        | Active         |
 | [brodylinux]               | Minimal Linux distro built from scratch (educational). BusyBox + initrd    | Shell         | In progress    |
 | [brodylinuxbeta]           | Beta/experimental branch of BrodyLinux — testing new boot & minimal features | Shell      | Experimental   |
-| [hello-world-os]           | Tiny hobby OS in Rust: boots and prints "Hello World" (kernel + bootloader) | Rust + ASM    | Fresh (today!) |
+| [hello-world-os]           | Tiny hobby OS in Rust: boots and prints "Hello World" (kernel + bootloader) | Rust + ASM    | Active        |
 | [KeyGenerator]             | One-time key generation & activation bot for Telegram                      | Python        | Active         |
 | [guessing-game]            | Simple number guessing game to learn Rust basics                           | Rust          | Learning       |
 
