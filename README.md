@@ -5,8 +5,7 @@
     <strong>16 y/o self-taught developer</strong><br>
     Python • Linux • Rust • Telegram bots • Low-level stuff
   </p>
-
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python&logoColor=white" alt="Python">
+  
   <img src="https://img.shields.io/badge/Linux-Enthusiast-orange?style=flat&logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Rust-Learning-red?style=flat&logo=rust&logoColor=white" alt="Rust">
   <br><br>
