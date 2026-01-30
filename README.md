@@ -1,56 +1,52 @@
-
 <div align="center">
-  <h1>Hey! I'm Nick (NickIBrody) 👋</h1>
+  <h1>Hey! I'm Nick Brody 👋</h1>
   
   <p>
-    <strong>16 y/o | Self-taught Python & Linux enthusiast</strong><br>
-    Building bots, tools, utilities and even my own Linux distro from scratch.
+    <strong>16 y/o self-taught developer</strong><br>
+    Python • Linux • Rust • Telegram bots • Low-level stuff
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
-    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </p>
-</div>
-
-## My Highlighted Projects
-
-| # | Project | Description | Language / Tech | Status | Link |
-|---|---------|-------------|-----------------|--------|------|
-| 1 | **telegram-screenshot-bot** | Telegram bot that takes full-page screenshots of websites. Queue system, great for devs/QA/monitoring. | Python | ★1 star | [→ View](https://github.com/NickIBrody/telegram-screenshot-bot) |
-| 2 | **procview-pro** | Real-time Windows process monitor: search, CPU/RAM usage, pause/resume processes. **Portable standalone .exe** — no Python install needed! | Python → EXE | Active | [→ View](https://github.com/NickIBrody/procview-pro) |
-| 3 | **Micro-AI-Bot** | Telegram bot with micro-ML: learns from user replies and remembers knowledge for future answers. | Python | Active | [→ View](https://github.com/NickIBrody/Micro-AI-Bot) |
-| 4 | **brodylinux** | **My own minimal Linux distro** — building from scratch (educational project). BusyBox, initrd, isolinux, boots into shell. Learning how kernels & bootloaders really work. | Shell | In progress (6 commits) | [→ View](https://github.com/NickIBrody/brodylinux) |
-| 5 | **KeyGenerator** | Telegram bot for generating & validating one-time keys (admin generates, users activate). | Python | Active | [→ View](https://github.com/NickIBrody/KeyGenerator) |
-| 6 | **NickIBrody.github.io** | Python hacking puzzle game. Exploit a server's authentication in-browser. Learn security through code. GitHub Pages. | HTML / CSS / JS | Live | [→ Visit site](https://nickibrody.github.io) |
-| 7 | guessing-game | A tiny terminal-based number guessing game written in Rust. Learning Rust fundamentals, CLI input, and basic game logic. | Rust | Learning project | [→ View](https://github.com/NickIBrody/guessing-game/tree/main) |
-
-## What's next on my roadmap
-- Finish **BrodyLinux**: networking, SSH server, better init system, proper docs
-
-<div align="center">
-
-**Open to collabs, feedback, code reviews or even small internships!**  
-Feel free to DM me → [Telegram](https://t.me/werg23p) or open an issue in any repo.
-
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickIBrody&show_icons=true&theme=radical&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickIBrody&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-orange?style=flat&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Rust-Learning-red?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <br><br>
+  
+  Building useful tools, bots and even <strong>my own Linux distro from scratch</strong>.
 </div>
 
 ---
 
-Thanks for stopping by! 🚀  
-Last updated: January 2026
+### 🔥 Highlighted Projects
 
+<div align="center">
 
+| Project                        | Description                                                                 | Tech          | Status     |
+|--------------------------------|-----------------------------------------------------------------------------|---------------|------------|
+| **[telegram-screenshot-bot]**  | Full-page website screenshots right in Telegram. Queue + error handling    | Python        | ★1        |
+| **[procview-pro]**             | Real-time Windows process monitor. Portable .exe, no install needed         | Python → EXE  | Active    |
+| **[Micro-AI-Bot]**             | Tiny self-learning Telegram bot — remembers what you teach it              | Python        | Active    |
+| **[brodylinux]**               | Minimal Linux distro built from scratch (educational). BusyBox + initrd    | Shell         | In progress |
+| **[KeyGenerator]**             | One-time key generation & activation bot for Telegram                      | Python        | Active    |
+| **[guessing-game]**            | Simple number guessing game to learn Rust basics                           | Rust          | Learning  |
 
+</div>
 
-![Warcraft Gaming GIF](https://media1.tenor.com/m/6yZRyjWnwGEAAAAC/warcraft-gaming.gif)
+→ [View all repositories →](https://github.com/NickIBrody?tab=repositories)
 
+---
 
+### 🚀 What's next
 
+- Finish **BrodyLinux**: add networking, SSH, proper init, packaging  
+- More Rust low-level experiments  
+- Maybe a tiny kernel module or custom bootloader
+
+---
+
+**Open to**: code reviews, feedback, collabs, small freelance / internships
+
+📩 Reach me: [Telegram → @werg23p](https://t.me/werg23p)
+
+<div align="center">
+  <sub>Thanks for stopping by! Let's build cool stuff 🚀</sub>
+</div>
