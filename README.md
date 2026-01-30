@@ -20,14 +20,16 @@
 
 <div align="center">
 
-| Project                        | Description                                                                 | Tech          | Status     |
-|--------------------------------|-----------------------------------------------------------------------------|---------------|------------|
-| **[telegram-screenshot-bot]**  | Full-page website screenshots right in Telegram. Queue + error handling    | Python        | ★1        |
-| **[procview-pro]**             | Real-time Windows process monitor. Portable .exe, no install needed         | Python → EXE  | Active    |
-| **[Micro-AI-Bot]**             | Tiny self-learning Telegram bot — remembers what you teach it              | Python        | Active    |
-| **[brodylinux]**               | Minimal Linux distro built from scratch (educational). BusyBox + initrd    | Shell         | In progress |
-| **[KeyGenerator]**             | One-time key generation & activation bot for Telegram                      | Python        | Active    |
-| **[guessing-game]**            | Simple number guessing game to learn Rust basics                           | Rust          | Learning  |
+| Project                        | Description                                                                 | Tech          | Status          |
+|--------------------------------|-----------------------------------------------------------------------------|---------------|-----------------|
+| [telegram-screenshot-bot]  | Full-page website screenshots right in Telegram. Queue + error handling    | Python        | ★1             |
+| [procview-pro]             | Real-time Windows process monitor. Portable .exe, no install needed         | Python → EXE  | Active         |
+| [Micro-AI-Bot]             | Tiny self-learning Telegram bot — remembers what you teach it              | Python        | Active         |
+| [brodylinux]               | Minimal Linux distro built from scratch (educational). BusyBox + initrd    | Shell         | In progress    |
+| [brodylinuxbeta]           | Beta/experimental branch of BrodyLinux — testing new boot & minimal features | Shell      | Experimental   |
+| [hello-world-os]           | Tiny hobby OS in Rust: boots and prints "Hello World" (kernel + bootloader) | Rust + ASM    | Fresh (today!) |
+| [KeyGenerator]             | One-time key generation & activation bot for Telegram                      | Python        | Active         |
+| [guessing-game]            | Simple number guessing game to learn Rust basics                           | Rust          | Learning       |
 
 </div>
 
@@ -37,16 +39,21 @@
 
 ### 🚀 What's next
 
-- Finish **BrodyLinux**: add networking, SSH, proper init, packaging  
+- Finish BrodyLinux (main + beta): add networking, SSH, proper init, packaging  
+- Grow hello-world-os into something bigger (maybe simple drivers or shell)  
 - More Rust low-level experiments  
 - Maybe a tiny kernel module or custom bootloader
 
 ---
 
-**Open to**: code reviews, feedback, collabs, small freelance / internships
+Open to: code reviews, feedback, collabs, small freelance / internships
 
 📩 Reach me: [Telegram → @werg23p](https://t.me/werg23p)
 
 <div align="center">
   <sub>Thanks for stopping by! Let's build cool stuff 🚀</sub>
 </div>
+
+
+
+![Warcraft Gaming GIF](https://media1.tenor.com/m/6yZRyjWnwGEAAAAC/warcraft-gaming.gif)
