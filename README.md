@@ -4,9 +4,9 @@
 Python • Rust • Linux • Telegram bots • Low-level stuff
 
 
-<img src="https://img.shields.io/badge/Linux-Enthusiast-orange?style=flat&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Rust-Learning-red?style=flat&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/Linux-Enthusiast-orange?style=flat&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Rust-Learning-red?style=flat&logo=rust&logoColor=white" alt="Rust">
   <br><br>
+  
 Building useful tools, bots and my own Linux distro from scratch.  
 Open to feedback, code reviews, collabs, small freelance/internships.
 
