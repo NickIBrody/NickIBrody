@@ -14,7 +14,7 @@ Open to feedback, code reviews, collabs, small freelance/internships.
 
 - [telegram-screenshot-bot](https://github.com/NickIBrody/telegram-screenshot-bot) — Full-page website screenshots right in Telegram (queue + error handling)  
 - [procview-pro](https://github.com/NickIBrody/procview-pro) — Real-time Windows process monitor, portable .exe, no install needed  
-- [brodylinux](https://github.com/NickIBrody/brodylinux) — Minimal custom Linux distro from scratch (BusyBox + initrd)  
+- [brodylinuxbeta](https://github.com/NickIBrody/brodylinuxbeta) — Minimal custom Linux distro from scratch (BusyBox + initrd)  
 - [hello-world-os](https://github.com/NickIBrody/hello-world-os) — Tiny hobby OS in Rust + Assembly (boots → "Hello World OS")  
 
 
