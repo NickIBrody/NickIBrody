@@ -20,14 +20,12 @@ Open to feedback, code reviews, collabs, small freelance/internships.
 
 ### Currently working on
 - Finishing BrodyLinux (networking, basic shell, packaging)  
-- Growing hello-world-os (maybe basic shell or drivers)  
 - More Rust low-level experiments  
 
 Reach me:  
 Telegram: [@werg23p](https://t.me/werg23p)  
 Personal site: [nickibrody.github.io](https://nickibrody.github.io)
 
-Let's build something cool 🚀
 
 
 ![Warcraft Gaming GIF](https://media1.tenor.com/m/6yZRyjWnwGEAAAAC/warcraft-gaming.gif)
