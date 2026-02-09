@@ -24,7 +24,6 @@ Open to feedback, code reviews, collabs, small freelance/internships.
 
 Reach me:  
 Telegram: [@werg23p](https://t.me/werg23p)  
-Personal site: [nickibrody.github.io](https://nickibrody.github.io)
 
 
 
