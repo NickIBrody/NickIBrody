@@ -13,7 +13,7 @@ Open to feedback, code reviews, collabs, small freelance/internships.
 ## 🚀 Featured Projects
 
 ### 🐧 BrodyLinuxBeta
-Minimal experimental Linux-like system built with BusyBox and custom initrd.  
+Minimal experimental Linux system built with BusyBox and custom initrd.  
 🔗 https://github.com/NickIBrody/brodylinuxbeta
 
 ---
