@@ -10,13 +10,17 @@ Python • Rust • Linux • Telegram bots • Low-level stuff
 Building useful tools, bots and my own Linux distro from scratch.  
 Open to feedback, code reviews, collabs, small freelance/internships.
 
-### Pinned Projects
+## 🚀 Featured Projects
 
-- [telegram-screenshot-bot](https://github.com/NickIBrody/telegram-screenshot-bot) — Full-page website screenshots right in Telegram (queue + error handling)  
-- [procview-pro](https://github.com/NickIBrody/procview-pro) — Real-time Windows process monitor, portable .exe, no install needed  
-- [brodylinuxbeta](https://github.com/NickIBrody/brodylinuxbeta) — Minimal custom Linux distro from scratch (BusyBox + initrd)  
-- [hello-world-os](https://github.com/NickIBrody/hello-world-os) — Tiny hobby OS in Rust + Assembly (boots → "Hello World OS")  
+### 🐧 BrodyLinuxBeta
+Minimal experimental Linux-like system built with BusyBox and custom initrd.  
+🔗 https://github.com/NickIBrody/brodylinuxbeta
 
+---
+
+### ⚡ Async Scanner
+High-performance asynchronous TCP port scanner written in Rust (Tokio).  
+🔗 https://github.com/NickIBrody/async-scanner
 
 ### Currently working on
 - Finishing BrodyLinux (networking, basic shell, packaging)  
