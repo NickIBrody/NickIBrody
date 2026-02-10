@@ -8,7 +8,7 @@ Python • Rust • Linux • Telegram bots • Low-level stuff
   <br><br>
   
 Building useful tools, bots and my own Linux distro from scratch.  
-Open to feedback, code reviews, collabs, small freelance/internships.
+Open to feedback, collabs
 
 ## 🚀 Featured Projects
 
