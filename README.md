@@ -1,34 +1,29 @@
-# Hi, I'm NickIBrody 👋
+# NickIBrody
 
-16 y/o self-taught developer  
-Python • Rust • Linux • Telegram bots • Low-level stuff
+<p align="center">Rust • Linux • low-level • tools</p>
 
+Self-taught developer building practical software, terminal tools, and experimental system projects.
 
-<img src="https://img.shields.io/badge/Linux-Enthusiast-orange?style=flat&logo=linux&logoColor=white" alt="Linux">
-  <br><br>
-  
-Building useful tools, bots and my own Linux distro from scratch.  
-Open to feedback, collabs
+## Selected Projects
 
-## 🚀 Featured Projects
+- [Load-Monitor](https://github.com/NickIBrody/Load-Monitor)  
+  Rust daemon for CPU/RAM monitoring and automatic throttling with cgroups v2.
 
-### 🐧 BrodyLinuxBeta
-Minimal experimental Linux system built with BusyBox and custom initrd.  
-🔗 https://github.com/NickIBrody/brodylinuxbeta
+- [async-scanner](https://github.com/NickIBrody/async-scanner)  
+  Fast asynchronous TCP port scanner written in Rust.
 
----
+- [brodylinuxbeta](https://github.com/NickIBrody/brodylinuxbeta)  
+  Minimal Linux system built from scratch with BusyBox, initrd, and manual kernel work.
 
-### ⚡ Async Scanner
-High-performance asynchronous TCP port scanner written in Rust (Tokio).  
-🔗 https://github.com/NickIBrody/async-scanner
+- [altar64](https://github.com/NickIBrody/altar64)  
+  Native HolyC-style compiler in Rust targeting x86_64 through NASM.
 
-### Currently working on
-- Finishing BrodyLinux (networking, basic shell, packaging)  
-- More Rust low-level experiments  
+## Current Focus
 
-Reach me:  
-Telegram: [@werg23p](https://t.me/werg23p)  
+- Linux and low-level experiments
+- Rust tooling and systems work
+- Personal language and compiler projects
 
+## Contact
 
-
-![Warcraft Gaming GIF](https://media1.tenor.com/m/6yZRyjWnwGEAAAAC/warcraft-gaming.gif)
+- Telegram: [@werg23p](https://t.me/werg23p)
