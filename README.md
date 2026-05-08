@@ -11,8 +11,7 @@ Self-taught developer building practical software, terminal tools, and experimen
 - [brodylinuxbeta](https://github.com/NickIBrody/brodylinuxbeta)  
   Minimal Linux system built from scratch with BusyBox, initrd, and manual kernel work.
 
-- [altar64](https://github.com/NickIBrody/altar64)  
-  Native HolyC-style compiler in Rust targeting x86_64 through NASM.
+
 
 ## Current Focus
 
