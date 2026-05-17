@@ -24,7 +24,7 @@ I am also studying Rust while staying focused on low-level software and systems 
 
 For one-off experiments, I do not find it rational to spend months learning an entire niche language just to ship a single project. That is why I sometimes work with Codex as an engineering partner: to move faster, keep the project honest, and still end up with real code, real builds, and real artifacts.
 
-> "You can't miss fast enough to catch up."
+> “What's reality? I don't know. When my bird was looking at my computer monitor, I thought, 'that bird has no idea what he's looking at.' And yet, what does the bird do? Does he panic? No, he can't really panic, he just does the best he can...”
 >
 > — Terry A. Davis
 
