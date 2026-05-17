@@ -1,13 +1,11 @@
-<h1 align="center">NickIBrody</h1>
-
 <p align="center">
-  <b>Low-level systems • Linux experiments • HolyC / TempleOS-influenced projects</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=NickIBrody&fontSize=52&fontColor=f8fafc&desc=Low-level%20systems%20%7C%20HolyC%20experiments%20%7C%20TempleOS-influenced%20projects&descAlignY=63&animation=fadeIn" alt="NickIBrody banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/NickIBrody/Holy-Linux"><img alt="Holy-Linux" src="https://img.shields.io/badge/Holy--Linux-bootable%20HolyC%20userspace-0f172a?style=for-the-badge&logo=linux&logoColor=white"></a>
   <img alt="Focus" src="https://img.shields.io/badge/focus-kernels%20%2F%20shells%20%2F%20toolchains-1f2937?style=for-the-badge">
-  <img alt="Language" src="https://img.shields.io/badge/interest-HolyC%20%2B%20C%20%2B%20Linux-111827?style=for-the-badge">
+  <img alt="Learning Rust" src="https://img.shields.io/badge/studying-Rust-b45309?style=for-the-badge&logo=rust&logoColor=white">
 </p>
 
 <p align="center">
@@ -22,6 +20,8 @@ Self-taught developer building small systems, weird tools, and bootable experime
 
 I care more about understanding the machine than following fashionable stacks. Most of what I build lives close to the terminal: kernels, shells, initramfs images, small utilities, and projects that try to make Linux feel less generic and more personal.
 
+I am also studying Rust while staying focused on low-level software and systems work.
+
 For one-off experiments, I do not find it rational to spend months learning an entire niche language just to ship a single project. That is why I sometimes work with Codex as an engineering partner: to move faster, keep the project honest, and still end up with real code, real builds, and real artifacts.
 
 > "You can't miss fast enough to catch up."
@@ -33,6 +33,7 @@ For one-off experiments, I do not find it rational to spend months learning an e
 - Bootable Linux systems for QEMU
 - HolyC userspace experiments
 - Custom shells, tiny toolchains, and minimalist system software
+- Studying Rust for systems programming
 - Replacing familiar Linux userland pieces with stranger ones
 
 ## Selected Projects
