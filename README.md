@@ -58,7 +58,7 @@ A small Linux system built from scratch with BusyBox, initrd, and manual kernel 
 
 ## Contact
 
-- Telegram: [@werg23p](https://t.me/werg23p)
+- Telegram: [@nickbrp](https://t.me/nickbrp)
 
 <p align="center">
   <i>TempleOS energy, Linux pragmatism.</i>
